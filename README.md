@@ -18,8 +18,8 @@ All these apps are Linux Native:
 - [GParted](https://gparted.org) A free partition editor for graphically managing your disk partitions.
 - [FileZiila](https://filezilla-project.org) A free and open-source, cross-platform FTP application, consisting of FileZilla Client and FileZilla Server.
 - [Lutris](https://lutris.net) A free and open source game manager for Linux-based operating systems
-- Steam
-- Discord
+- [Steam](https://store.steampowered.com) A video game digital distribution service and storefront by Valve.
+- [Discord]() A VoIP and instant messaging social platform.
 - RPSC3
 - PCSX2
 - AppImage Launcher
