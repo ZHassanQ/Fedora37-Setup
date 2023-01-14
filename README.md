@@ -38,5 +38,5 @@ All these websites may help you configuring your Linux Fedora:
 - [ProtonDB](https://www.protondb.com)
 - [SteamDB](https://steamdb.info)
 - [RPSC3 Compatibility List](https://rpcs3.net/compatibility)
-- [PSCX2 Compatibility List(https://pcsx2.net/compat)
+- [PSCX2 Compatibility List](https://pcsx2.net/compat)
 - [Flathub App Store](https://flathub.org/home)
