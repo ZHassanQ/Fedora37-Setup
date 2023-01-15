@@ -41,13 +41,13 @@ These components and/or drivers may help you to optimize and run your computer f
 
 All these websites may help you configuring your Linux Fedora:
 
-- [Lutris Games](https://lutris.net/games)
-- [ProtonDB](https://www.protondb.com)
-- [SteamDB](https://steamdb.info)
-- [RPSC3 Compatibility List](https://rpcs3.net/compatibility)
-- [PSCX2 Compatibility List](https://pcsx2.net/compat)
 - [Flathub App Store](https://flathub.org/home)
 - [GNOME Extension](https://extensions.gnome.org/)
+- [Lutris Games](https://lutris.net/games)
+- [ProtonDB](https://www.protondb.com)
+- [PSCX2 Compatibility List](https://pcsx2.net/compat)
+- [RPSC3 Compatibility List](https://rpcs3.net/compatibility)
+- [SteamDB](https://steamdb.info)
 
 
 # Notes
