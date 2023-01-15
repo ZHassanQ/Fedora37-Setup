@@ -12,7 +12,7 @@ Fedora Sections: [Wiki]()
 
 # Recommended Apps
 
-All these apps are Linux Native:
+All these apps are Linux Native and may help you to ease the use of linux:
 
 - [AppImage Launcher](https://github.com/TheAssassin/AppImageLauncher) Helper application for Linux distributions for running and integrating AppImages.
 - [BalenaEtcher](https://www.balena.io/etcher/) Flash OS images to SD cards & USB drives, safely and easily.
