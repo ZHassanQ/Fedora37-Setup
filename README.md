@@ -1,13 +1,12 @@
 # Fedora-Setup
 This repository contains every main thing to install or do in Fedora Linux Distribution after installation process.
 
-Fedora Sections: [Wiki]()
+Fedora Sections: [Wiki](https://github.com/ZHassanQ/Fedora-Setup/wiki)
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Configuring](https://github.com/ZHassanQ/Fedora-Setup/wiki/0.-Configuring)
+- [Installing Drivers](https://github.com/ZHassanQ/Fedora-Setup/wiki/1.-Installing-Drivers)
+- [Installing Extenions](https://github.com/ZHassanQ/Fedora-Setup/wiki/2.-Installing-Extensions)
+- [Installing Apps](https://github.com/ZHassanQ/Fedora-Setup/wiki/3.-Installing-Apps)
 
 
 # Recommended Apps
