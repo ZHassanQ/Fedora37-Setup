@@ -21,6 +21,7 @@ All these apps are Linux Native:
 - [FileZiila](https://filezilla-project.org) A free and open-source, cross-platform FTP application.
 - [Google Browser](https://www.google.com/chrome/) A cross-platform web browser developed by Google.
 - [GParted](https://gparted.org) A free partition editor for graphically managing your disk partitions.
+- [Herioc Games Launcher](https://heroicgameslauncher.com/) A free open-Source GOG and Epic games launcher
 - [Lutris](https://lutris.net) A free and open source game manager for Linux-based operating systems.
 - [MangoHUD](https://github.com/flightlessmango/MangoHud) A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [PCSX2](https://pcsx2.net) A free and open-source PlayStation 2 emulator.
