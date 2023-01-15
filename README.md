@@ -34,7 +34,7 @@ All these apps are Linux Native:
 These components and/or drivers may help you to optimize and run your computer faster:
 
 - [GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom) Compatibility tool for Steam Play based on Wine and additional components.
-- [Nvidia Server Settings](https://www.nvidia.com/Download/index.aspx?lang=en-us)
+- [Nvidia Driver](https://www.nvidia.com/Download/index.aspx?lang=en-us) A driver installer for NVIDIA graphics cards.
 
 
 # Recommended Websites
