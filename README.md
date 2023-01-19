@@ -54,4 +54,5 @@ All these websites may help you configuring your Linux Fedora:
 # Notes
 
 - AMD drivers are open-source meaning that you will not need to install any driver manually.
+- Intel drivers are open-source drivers for its graphics chips, with the exception of their PowerVR-based chips.
 - Nvidia Drivers and Server Settings can be downloaded from Software.
