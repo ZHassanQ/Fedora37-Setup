@@ -22,7 +22,7 @@ All these apps are Linux Native and may help you to ease the use of linux:
 - [GParted](https://gparted.org) A free partition editor for graphically managing your disk partitions.
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) A system utility designed to provide information, control the fans and overclock your NVIDIA graphics card.
 - [Herioc Games Launcher](https://heroicgameslauncher.com/) A free open-Source GOG and Epic games launcher
-- [Lutris](https://lutris.net) A free and open source game manager for Linux-based operating systems.
+- [Lutris](https://lutris.net) A free and open-source game manager for Linux-based operating systems.
 - [MangoHUD](https://github.com/flightlessmango/MangoHud) A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [PCSX2](https://pcsx2.net) A free and open-source PlayStation 2 emulator.
 - [PeaZip](https://peazip.github.io) A free and open-source file manager and file archiver.
