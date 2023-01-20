@@ -34,6 +34,7 @@ All these apps are Linux Native and may help you to ease the use of linux:
 
 These components and/or drivers may help you to optimize and run your computer faster:
 
+- [Flatpak](https://flatpak.org/)
 - [GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom) A compatibility tool for Steam Play based on Wine and additional components.
 - [Nvidia Driver](https://www.nvidia.com/Download/index.aspx?lang=en-us) A driver installer for NVIDIA graphics cards.
 - [RPMFusion free](https://rpmfusion.org/)
