@@ -1,5 +1,5 @@
-# Fedora-Setup
-This repository contains every main thing to install or do in Fedora Linux Distribution after installation process.
+# Fedora37-Setup
+This repository contains every main thing to install or do in Fedora37 Linux Distribution after installation process.
 
 Fedora Sections: [Wiki](https://github.com/ZHassanQ/Fedora-Setup/wiki)
 
