@@ -29,6 +29,8 @@ All these apps are Linux Native and may help you to ease the use of linux:
 - [PeaZip](https://peazip.github.io) A free and open-source file manager and file archiver.
 - [RPSC3](https://rpcs3.net) A free and open-source video game console emulator and debugger for the Sony PlayStation 3.
 - [Steam](https://store.steampowered.com) A video game digital distribution service and storefront by Valve.
+- [Visual Studio Code](https://code.visualstudio.com/) A source-code editor made by Microsoft with the Electron Framework.
+- [VLC Media Player](https://www.videolan.org/vlc/) A free and open-source cross-platform multimedia player and framework that plays most multimedia files.
 
 
 # Recommended Components
