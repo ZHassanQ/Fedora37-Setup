@@ -27,6 +27,7 @@ All these apps are Linux Native and may help you to ease the use of linux:
 - [MangoHUD](https://github.com/flightlessmango/MangoHud) A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [PCSX2](https://pcsx2.net) A free and open-source PlayStation 2 emulator.
 - [PeaZip](https://peazip.github.io) A free and open-source file manager and file archiver.
+- [qBittorrent](https://www.qbittorrent.org/) A cross-platform free and open-source BitTorrent client written in native C++.
 - [RPSC3](https://rpcs3.net) A free and open-source video game console emulator and debugger for the Sony PlayStation 3.
 - [Steam](https://store.steampowered.com) A video game digital distribution service and storefront by Valve.
 - [Visual Studio Code](https://code.visualstudio.com/) A source-code editor made by Microsoft with the Electron Framework.
