@@ -19,6 +19,7 @@ All these apps are Linux Native and may help you to ease the use of linux:
 - [Discord](https://discord.com) A VoIP and instant messaging social platform.
 - [FileZiila](https://filezilla-project.org) A free and open-source, cross-platform FTP application.
 - [Google Browser](https://www.google.com/chrome/) A cross-platform web browser developed by Google.
+- [GNOME Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks) A graphical interface for advanced GNOME 3 settings.
 - [GParted](https://gparted.org) A free partition editor for graphically managing your disk partitions.
 - [GreenWithEnvy](https://gitlab.com/leinardi/gwe) A system utility designed to provide information, control the fans and overclock your NVIDIA graphics card.
 - [Herioc Games Launcher](https://heroicgameslauncher.com/) A free open-Source GOG and Epic games launcher
