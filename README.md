@@ -30,6 +30,7 @@ All these apps are Linux Native and may help you to ease the use of linux:
 - [qBittorrent](https://www.qbittorrent.org/) A cross-platform free and open-source BitTorrent client written in native C++.
 - [RPSC3](https://rpcs3.net) A free and open-source video game console emulator and debugger for the Sony PlayStation 3.
 - [Steam](https://store.steampowered.com) A video game digital distribution service and storefront by Valve.
+- [SAMRewritten](https://github.com/PaulCombal/SamRewritten) SAM Linux version. A tool to obtain unobtainable achievements in steam.
 - [Visual Studio Code](https://code.visualstudio.com/) A source-code editor made by Microsoft with the Electron Framework.
 - [VLC Media Player](https://www.videolan.org/vlc/) A free and open-source cross-platform multimedia player and framework that plays most multimedia files.
 
