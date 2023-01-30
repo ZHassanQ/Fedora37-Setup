@@ -7,6 +7,7 @@ Fedora Sections: [Wiki](https://github.com/ZHassanQ/Fedora-Setup/wiki)
 - [Installing Drivers](https://github.com/ZHassanQ/Fedora-Setup/wiki/1.-Installing-Drivers)
 - [Installing Extenions](https://github.com/ZHassanQ/Fedora-Setup/wiki/2.-Installing-Extensions)
 - [Installing Apps](https://github.com/ZHassanQ/Fedora-Setup/wiki/3.-Installing-Apps)
+- [Emptying Space in Root](https://github.com/ZHassanQ/Fedora37-Setup/wiki/Emptying-Root)
 
 
 # Recommended Apps
