@@ -66,5 +66,3 @@ All these websites may help you configuring your Linux Fedora:
 - Intel drivers are open-source drivers for its graphics chips, with the exception of their PowerVR-based chips.
 - Nvidia Drivers and Server Settings can be downloaded from Software.
 - This repository contains files and apps for 86_64x verisons.
-
-I DID NOT MAKE ANY OF THESE APPS. Click the link of the app you want to visit the original website. I only put them here to save time for anyone who wants.
